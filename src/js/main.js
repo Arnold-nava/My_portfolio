@@ -29,7 +29,6 @@ function Typings() {
 
     const words = [
         "Aspiring Web Developer",
-        "Frontend Designer",
         "Student Programmer",
         "Creative Learner"
     ];
