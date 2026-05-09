@@ -28,7 +28,7 @@ function Typings() {
     const typingElement = document.querySelector(".typing");
 
     const words = [
-        "Aspiring Web Developer",
+        "Student Web Developer",
         "Student Programmer",
         "Creative Learner"
     ];
